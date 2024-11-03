@@ -1,0 +1,26 @@
+.thead{
+    background-color: aquamarine;
+    text-align: center;
+    padding: 5px;
+}
+
+.tbody{
+    background-color: bisque;
+    justify-content: center;
+    text-align: center;    
+    padding: 10px;
+    margin: 3px;
+}
+
+.table{
+    border: 2px solid black;
+}
+.buscar{
+    background-color: aqua;
+    border-radius: 5px;
+    border: 2px solid black;
+}
+
+.buscar:hover{
+    background-color: green;
+}
